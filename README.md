@@ -16,4 +16,4 @@ A lightweight Python script that displays the current time in real-time, updatin
 
 ## 🚀 How to Run | نحوه اجرا
 ```bash
-python clock.py
+python main.py
